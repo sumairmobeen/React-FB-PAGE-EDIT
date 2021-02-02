@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-FB-PAGE-EDIT/static/css/main.2350be25.chunk.css",
+    "main.js": "/React-FB-PAGE-EDIT/static/js/main.1fb4c4f1.chunk.js",
+    "main.js.map": "/React-FB-PAGE-EDIT/static/js/main.1fb4c4f1.chunk.js.map",
+    "runtime-main.js": "/React-FB-PAGE-EDIT/static/js/runtime-main.e6478bdc.js",
+    "runtime-main.js.map": "/React-FB-PAGE-EDIT/static/js/runtime-main.e6478bdc.js.map",
+    "static/css/2.150d169a.chunk.css": "/React-FB-PAGE-EDIT/static/css/2.150d169a.chunk.css",
+    "static/js/2.fbb7ddbc.chunk.js": "/React-FB-PAGE-EDIT/static/js/2.fbb7ddbc.chunk.js",
+    "static/js/2.fbb7ddbc.chunk.js.map": "/React-FB-PAGE-EDIT/static/js/2.fbb7ddbc.chunk.js.map",
+    "index.html": "/React-FB-PAGE-EDIT/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/React-FB-PAGE-EDIT/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.2350be25.chunk.css.map": "/React-FB-PAGE-EDIT/static/css/main.2350be25.chunk.css.map",
+    "static/js/2.fbb7ddbc.chunk.js.LICENSE.txt": "/React-FB-PAGE-EDIT/static/js/2.fbb7ddbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6478bdc.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.fbb7ddbc.chunk.js",
+    "static/css/main.2350be25.chunk.css",
+    "static/js/main.1fb4c4f1.chunk.js"
+  ]
+}
